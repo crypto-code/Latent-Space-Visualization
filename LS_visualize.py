@@ -12,7 +12,7 @@ import cv2
 
 #------------------------------------------------------------------------------#
 
-parser = argparse.ArgumentParser(description='Variational Autoencoder Visualization')
+parser = argparse.ArgumentParser(description='Autoencoder Latent Space Visualization')
 parser.add_argument('--input',type=str,required=True,help='Directory containing images eg: data/')
 parser.add_argument('--name',type=str,required=True,help='Model Name')
 parser.add_argument('--epoch',type=int,default=500,help='No of training iterations')
