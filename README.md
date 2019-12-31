@@ -64,6 +64,7 @@ optional arguments:
   --epoch EPOCH  No of training iterations
   --mode MODE    Mode: train or plot
 ```
+Once trained the latent space can be plotted by setting the mode to plot.
 
 ## Example:
 <p align="center">
