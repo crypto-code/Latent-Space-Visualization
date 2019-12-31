@@ -1,7 +1,5 @@
 # Latent Space Visualization
 Visualize the Latent Space of an Autoencoder using matplotlib
-<p align="center">
-<img src="https://github.com/crypto-code/Latent-Space-Visualization/blob/master/assets/example.gif" height="400" align="middle" />   </p>
 
 ## What’s the Latent Space ?
 
@@ -66,3 +64,13 @@ optional arguments:
   --epoch EPOCH  No of training iterations
   --mode MODE    Mode: train or plot
 ```
+
+## Example:
+<p align="center">
+<img src="https://github.com/crypto-code/Latent-Space-Visualization/blob/master/assets/example.gif" height="400" align="middle" />   </p>
+Hovering over any region in the 2D space gives a reconstructed image. Images at points give perfect reconstruction, while in the white space a mix of different images is visible.
+
+# G00D LUCK
+
+For doubts email me at:
+atinsaki@gmail.com
